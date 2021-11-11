@@ -1,1 +1,1 @@
-# CodeForces-Solut
+# CodeForces-solut
